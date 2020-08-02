@@ -1,7 +1,9 @@
 # identify-the-animal
 
-Classification of Animals using deep learning.
-Over 30 different animal species are covered.
+Classification of Animals using deep learning.Over 30 different animal species are covered.
+
+These project is taken from [*HackerEarth- Identify the Animal  Challenge*](https://www.hackerearth.com/problem/machine-learning/predict-the-energy-used-612632a9-9de79188/)
+
 Here's the Demo
 
 ### For testing your own image :
