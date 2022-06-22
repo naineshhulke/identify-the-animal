@@ -10,7 +10,7 @@ keras == 2.4.3
 matplotlib == 3.3.0
 
 # zoo/main.py: 3
-numpy == 1.13.3
+numpy == 1.22.0
 
 # zoo/main.py: 11
 omelette == 1.1.6
