@@ -49,7 +49,7 @@ pillow == 7.2.0
 pillow-simd == 7.0.0.post3
 
 # zoo/main.py: 9
-streamlit == 0.64.0
+streamlit == 1.11.1
 
 # zoo/main.py: 6
 tensorflow == 2.3.0
